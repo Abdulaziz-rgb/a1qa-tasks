@@ -1,8 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "NGQfb5+DDvB47Q7Y6fJ7/0SC8yjNPn7+Ko0dmt3uqgztwbLCc5+Phjv3MUSR2b0gYZ+9MU8fm34j1RP5mpwobw==",
+  "dgSpecHash": "Tc4DLib8F3sxaynqrUw8pof3IG4k3sBtvRc9ZB16uDgfG7ITIpAm8fsj61Jtd5Kbr2PceuO/egTrpu5dddY5MA==",
   "success": true,
   "projectFilePath": "C:\\Users\\abdulaziz\\Desktop\\tasks-testing\\tasks-testing\\tasks-testing.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\abdulaziz\\.nuget\\packages\\microsoft.codecoverage\\17.5.0-preview-20221003-04\\microsoft.codecoverage.17.5.0-preview-20221003-04.nupkg.sha512",
+    "C:\\Users\\abdulaziz\\.nuget\\packages\\microsoft.net.test.sdk\\17.5.0-preview-20221003-04\\microsoft.net.test.sdk.17.5.0-preview-20221003-04.nupkg.sha512",
+    "C:\\Users\\abdulaziz\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\abdulaziz\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.5.0-preview-20221003-04\\microsoft.testplatform.objectmodel.17.5.0-preview-20221003-04.nupkg.sha512",
+    "C:\\Users\\abdulaziz\\.nuget\\packages\\microsoft.testplatform.testhost\\17.5.0-preview-20221003-04\\microsoft.testplatform.testhost.17.5.0-preview-20221003-04.nupkg.sha512",
+    "C:\\Users\\abdulaziz\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\abdulaziz\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\abdulaziz\\.nuget\\packages\\nuget.frameworks\\5.11.0\\nuget.frameworks.5.11.0.nupkg.sha512",
+    "C:\\Users\\abdulaziz\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\abdulaziz\\.nuget\\packages\\nunit3testadapter\\4.3.1\\nunit3testadapter.4.3.1.nupkg.sha512",
+    "C:\\Users\\abdulaziz\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512",
+    "C:\\Users\\abdulaziz\\.nuget\\packages\\yamldotnet\\12.3.1\\yamldotnet.12.3.1.nupkg.sha512"
+  ],
   "logs": []
 }
