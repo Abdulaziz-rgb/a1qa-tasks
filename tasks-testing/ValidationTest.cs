@@ -1,9 +1,6 @@
 ﻿namespace tasks_testing;
 
-using System.Text.Json;
 using NUnit.Framework;
-using UserModel;
-using YamlDotNet.Serialization;
 
 [TestFixture]
 public class ValidationTest
