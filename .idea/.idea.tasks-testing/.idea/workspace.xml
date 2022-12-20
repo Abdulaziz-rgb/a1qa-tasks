@@ -6,16 +6,16 @@
   <component name="ChangeListManager">
     <list default="true" id="03a167c0-f2b1-4ceb-baf6-c16f6e50138f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.tasks-testing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.tasks-testing/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasks-testing/obj/Debug/net6.0/tasks-testing.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tasks-testing/obj/Debug/net6.0/tasks-testing.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasks-testing/obj/Debug/net6.0/tasks-testing.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tasks-testing/obj/Debug/net6.0/tasks-testing.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasks-testing/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/tasks-testing/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasks-testing/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tasks-testing/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasks-testing/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/tasks-testing/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasks-testing/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/tasks-testing/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasks-testing/obj/tasks-testing.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/tasks-testing/obj/tasks-testing.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasks-testing/obj/tasks-testing.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/tasks-testing/obj/tasks-testing.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasks-testing/obj/tasks-testing.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/tasks-testing/obj/tasks-testing.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasks-testing/tasks-testing.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/tasks-testing/tasks-testing.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasks-testing.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/tasks-testing.sln.DotSettings.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasks-testing/UserModel/RegularUser.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasks-testing/ValidationTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/tasks-testing/ValidationTest.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasks-testing/bin/Debug/net6.0/tasks-testing.dll" beforeDir="false" afterPath="$PROJECT_DIR$/tasks-testing/bin/Debug/net6.0/tasks-testing.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasks-testing/bin/Debug/net6.0/tasks-testing.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/tasks-testing/bin/Debug/net6.0/tasks-testing.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasks-testing/obj/Debug/net6.0/ref/tasks-testing.dll" beforeDir="false" afterPath="$PROJECT_DIR$/tasks-testing/obj/Debug/net6.0/ref/tasks-testing.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasks-testing/obj/Debug/net6.0/refint/tasks-testing.dll" beforeDir="false" afterPath="$PROJECT_DIR$/tasks-testing/obj/Debug/net6.0/refint/tasks-testing.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasks-testing/obj/Debug/net6.0/tasks-testing.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tasks-testing/obj/Debug/net6.0/tasks-testing.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasks-testing/obj/Debug/net6.0/tasks-testing.dll" beforeDir="false" afterPath="$PROJECT_DIR$/tasks-testing/obj/Debug/net6.0/tasks-testing.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasks-testing/obj/Debug/net6.0/tasks-testing.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/tasks-testing/obj/Debug/net6.0/tasks-testing.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,15 +34,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET Project.tasks-testing">
     <configuration name="tasks-testing" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -71,7 +71,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1671518965875</updated>
-      <workItem from="1671518976116" duration="1291000" />
+      <workItem from="1671518976116" duration="4380000" />
+      <workItem from="1671525314066" duration="493000" />
+      <workItem from="1671526349843" duration="1230000" />
+      <workItem from="1671532712857" duration="5516000" />
+      <workItem from="1671553450820" duration="1745000" />
     </task>
     <servers />
   </component>
